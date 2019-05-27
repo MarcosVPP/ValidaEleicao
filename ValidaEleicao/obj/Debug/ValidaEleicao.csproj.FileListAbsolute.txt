@@ -1,0 +1,14 @@
+F:\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.exe.config
+F:\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.exe
+F:\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.pdb
+F:\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.csprojAssemblyReference.cache
+F:\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.csproj.CoreCompileInputs.cache
+F:\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.exe
+F:\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.pdb
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.exe.config
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.exe
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\bin\Debug\ValidaEleicao.pdb
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.csprojAssemblyReference.cache
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.csproj.CoreCompileInputs.cache
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.exe
+C:\Backup Marcos Pereira\ValidaEleicao\ValidaEleicao\obj\Debug\ValidaEleicao.pdb
